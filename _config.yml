@@ -9,7 +9,7 @@
 title: clash v2ray 免费节点每日更新分享 免费节点和高速机场推荐
 brief-intro: 免费公益机场节点和高速机场推荐每天分享
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://telegram-channels.github.io/nodeshare" # the base hostname & protocol for your site
+url: "https://telegram-channels.github.io/nodeshare/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
