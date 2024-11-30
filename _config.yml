@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://telegram-channels.github.io/nodeshare/
+url: https://telegeam.github.io/clashv2rayshare
 date_format: "ordinal"
 title: clash,v2ray节点分享
 subtitle: "ClashV2ray节点"
@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2023
 # 源码仓库，请替换成自己的
-repository: 
+repository: telegeam/telegeam.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -31,7 +31,7 @@ components:
         start_date: 2023-12-12
     # My Popular Repositories
     side_bar_repo:
-        enabled: false
+        enabled: true
         limit: 5
     # 文章字数统计
     word_count:
