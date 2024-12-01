@@ -76,10 +76,10 @@ navs:
     href: /a/
     label: 客户端
     mobile-hidden: true
-   #-
-  #   href: /archives/
-   #  label:  归档
-  #   mobile-hidden: true
+  -
+     href: /archives/
+     label:  归档
+     mobile-hidden: true
 
  # -
  #   href: /open-source/
