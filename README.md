@@ -12,7 +12,10 @@
 
 ### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
 
+注册地址：[【spcloud官网（点击注册）】](https://invite.spcloud.vip/#/register?code=vS77JVkP)
+
 [【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+
 不限设备数
 
 解锁流媒体、chatGPT
