@@ -101,9 +101,9 @@ topmost: true
 
 * * *
 
-### [fccloud](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+### [fccloud](https://goudan.site/#/register?code=LQzUg4EU)
 
-注册链接：[fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+注册链接：[fastconnectcloud.net](https://goudan.site/#/register?code=LQzUg4EU)
 
 
 试用：无
@@ -173,20 +173,20 @@ topmost: true
 
 ###  高速机场推荐1
 
-[【EFCloud】](https://inv.easyfastcloud.com/#/register?code=zZbUVKvu)
+[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【EFCloud官网（点击注册）】](https://inv.easyfastcloud.com/#/register?code=zZbUVKvu)
+注册地址：[【KK加速官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 ###  高速机场推荐2
 
-[【FCCloud】](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+[【西游云】](https://goudan.site/#/register?code=LQzUg4EU)
 
-FCCloud全球节点，解锁流媒体GPT，平民价格
+西游云全球节点，解锁流媒体GPT，平民价格
 
-注册地址：[【FCCloud（点击注册）】](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+注册地址：[【西游云（点击注册）】](https://goudan.site/#/register?code=LQzUg4EU)
 
 ### 高速机场推荐3
 
@@ -200,13 +200,13 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 ### 高速机场推荐4
 
-[【快猫】](https://inv.easyfastcloud.com/#/register?code=zZbUVKvu)
+[【快猫】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://inv.easyfastcloud.com/#/register?code=zZbUVKvu)
+注册地址：[【快猫官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 ###  高速机场推荐5
 
@@ -225,8 +225,8 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 ###  高速机场推荐6
 
-[「 极速云」](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+[「 极速云」](https://goudan.site/#/register?code=LQzUg4EU)
 
-注册地址：[【极速云官网（点击注册）】](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+注册地址：[【极速云官网（点击注册）】](https://goudan.site/#/register?code=LQzUg4EU)
 
 全球节点，解锁流媒体GPT，平民价格
