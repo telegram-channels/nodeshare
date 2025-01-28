@@ -88,22 +88,22 @@ topmost: true
 
 * * *
 
-### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
+### [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL)
 
-注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
+注册链接：[点击进入](https://sulian.info/#/register?code=3R5DYYrL)
 
 
 试用：
 
 最便宜的订阅有10元 100G/月。
 
-最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
+最高速率 1000Mbps , 全天不限速；IKK加速L专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
 
 * * *
 
 ### [fccloud](https://goudan.site/#/register?code=LQzUg4EU)
 
-注册链接：[fastconnectcloud.net](https://goudan.site/#/register?code=LQzUg4EU)
+注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
 
 
 试用：无
@@ -159,9 +159,9 @@ topmost: true
 
 * * *
 
-### [EF](#ef)
+### [KK加速](#ef)
 
-注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+注册链接：[https://点击进入](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
 试用：无
