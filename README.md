@@ -1,4 +1,4 @@
-# clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 2025-4-22
+# clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 2025-4-23
 
 **https://telegeam.github.io/clashv2rayshare/**
 
@@ -14,13 +14,6 @@
 
 注册地址：[【冰灵加速官网（点击注册）】](https://sulian.info/#/register?code=3R5DYYrL)
 
-[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-不限设备数
-
-解锁流媒体、chatGPT
-
-注册地址：[【KK加速官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 ###  高速机场推荐2
 
