@@ -161,7 +161,7 @@ topmost: true
 
 ### [KK加速](#ef)
 
-注册链接：[https://点击进入](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册链接：[https://点击进入](https://tg-nav.github.io/nodeshare/)
 
 
 试用：无
@@ -173,12 +173,12 @@ topmost: true
 
 ###  高速机场推荐1
 
-[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
+[【KK加速】](https://tg-nav.github.io/nodeshare/)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【KK加速官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册地址：[【KK加速官网（点击注册）】](https://tg-nav.github.io/nodeshare/)
 
 ###  高速机场推荐2
 
@@ -200,13 +200,13 @@ topmost: true
 
 ### 高速机场推荐4
 
-[【快猫】](https://kkjiasu.top/#/register?code=lhGhQflc)
+[【快猫】](https://tg-nav.github.io/nodeshare/)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册地址：[【快猫官网（点击注册）】](https://tg-nav.github.io/nodeshare/)
 
 ###  高速机场推荐5
 
