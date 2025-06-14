@@ -1,4 +1,4 @@
-# clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 2025-6-13
+# clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 2025-6-14
 
 **https://telegeam.github.io/clashv2rayshare/**
 
@@ -7,6 +7,13 @@
 
 [点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
 
+[【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+
+88云加速全球节点，解锁流媒体GPT，平民价格
+
+注册地址：[【88云加速（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+
+* * *
 
 ###  高速机场推荐1
 
