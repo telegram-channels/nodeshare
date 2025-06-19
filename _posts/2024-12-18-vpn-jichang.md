@@ -33,9 +33,9 @@ topmost: true
 ## [简介](#简介)
 
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 试用：
 
@@ -101,9 +101,9 @@ topmost: true
 
 * * *
 
-### [fccloud](https://goudan.site/#/register?code=LQzUg4EU)
+### [fccloud](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 试用：无
@@ -120,9 +120,9 @@ topmost: true
 
 * * *
 
-### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
+### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[goudan.site](https://goudan.site/#/register?code=LQzUg4EU)
+注册链接：[goudan.site](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 试用：
@@ -182,11 +182,11 @@ topmost: true
 
 ###  高速机场推荐2
 
-[【西游云】](https://goudan.site/#/register?code=LQzUg4EU)
+[【西游云】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 西游云全球节点，解锁流媒体GPT，平民价格
 
-注册地址：[【西游云（点击注册）】](https://goudan.site/#/register?code=LQzUg4EU)
+注册地址：[【西游云（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 ### 高速机场推荐3
 
@@ -225,8 +225,8 @@ topmost: true
 
 ###  高速机场推荐6
 
-[「 极速云」](https://goudan.site/#/register?code=LQzUg4EU)
+[「 极速云」](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册地址：[【极速云官网（点击注册）】](https://goudan.site/#/register?code=LQzUg4EU)
+注册地址：[【极速云官网（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 全球节点，解锁流媒体GPT，平民价格
