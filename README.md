@@ -36,7 +36,7 @@
 
 ### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册链接：[点击注册](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 试用：
 
