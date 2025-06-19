@@ -26,17 +26,17 @@
 
 ###  高速机场推荐2
 
-[【西游云】](https://goudan.site/#/register?code=LQzUg4EU)
+[【西游云】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 西游云全球节点，解锁流媒体GPT，平民价格
 
-注册地址：[【西游云（点击注册）】](https://goudan.site/#/register?code=LQzUg4EU)
+注册地址：[【西游云（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 * * *
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 试用：
 
