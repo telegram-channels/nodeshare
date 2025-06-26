@@ -1,4 +1,4 @@
-# clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 2025-6-24
+# clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 2025-6-26
 
 **https://telegeam.github.io/clashv2rayshare/**
 
@@ -68,7 +68,7 @@
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://kuaimao.io/#/register?code=9xg6G0AV)
+注册地址：[【快猫官网（点击注册）】]https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 
 ###  高速机场推荐5
 
