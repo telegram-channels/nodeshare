@@ -2,8 +2,8 @@ name: Update Date in README
 
 on:
   schedule:
-    # 使用 cron 表达式设置每天上海时间 8:00
-    - cron: '10 2 8 * * *' # UTC 时间是 1 35 0 每天，UTC+8需要加8小时
+    # 设置为每天上海时间 8:00
+    - cron: '0 0 8 * * *' # UTC时间为 0:00，上海时间为 8:00
 
 jobs:
   update-date:
@@ -12,11 +12,6 @@ jobs:
     steps:
       - name: Check out the repository
         uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
 
       - name: Update date in README.md
         run: |
