@@ -3,7 +3,7 @@ name: Update Date in README
 on:
   schedule:
     # 使用 cron 表达式设置每天上海时间 8:00
-    - cron: '01 2 8 * * *' # UTC 时间是 1 35 0 每天，UTC+8需要加8小时
+    - cron: '05 2 8 * * *' # UTC 时间是 1 35 0 每天，UTC+8需要加8小时
 
 jobs:
   update-date:
