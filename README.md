@@ -15,11 +15,11 @@
 
 ###  高速机场推荐
 
-### [【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### [【88云加速】](https://88cloud.pages.dev/#/register?code=n4KLfZJb)
 
 88云加速全球节点，解锁流媒体GPT，平民价格
 
-### 注册地址：[【88云加速（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### 注册地址：[【88云加速（点击注册）】](https://88cloud.pages.dev/#/register?code=n4KLfZJb)
 
 * * *
 
