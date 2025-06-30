@@ -23,6 +23,19 @@
 
 * * *
 
+
+</h3>
+<h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://xn--yfr044l4qfzsf.com/#/register?code=7Y5uXPTq">飞鸟加速            点击注册</a> </span></h3>
+<h3>· 高速·稳定·无限可能
+1. 多地专线高速节点，极速跨境体验，告别卡顿与延迟！
+2. 一键解锁Netflix、Disney+、TikTok等全球流媒体，尽享自由精彩！
+3. GPT专属线路支持，保障ChatGPT等AI服务高可用，稳定流畅！
+4. 支持多设备同时使用，无限制，畅连全球！
+5. 自有机房专柜，全球多地接入，安全可靠！
+6. 专业客服团队7x24小时响应，使用无忧！</h3>
+<h3></h3>
+<h3>
+
 ###  高速机场推荐1
 
 ### [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL)
